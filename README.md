@@ -17,17 +17,24 @@ Currently, I select a couple of points on the left and right borders of the imag
 
 ## Results
 
+I compare the results to [rembg](https://github.com/danielgatis/rembg), a popular tool to remove backgrounds.
+
+- **TODO**: Add more results.
+
 <table>
     <tr>
         <td>Original</td>
+        <td>rembg</td>
         <td>Masked</td>
     </tr>
   <tr>
     <td><img src="./docs/imgs/glasses_origin.jpg"></td>
+    <td><img src="./docs/imgs/glasses_rembg.jpg"></td>
     <td><img src="./docs/imgs/glasses_masked.jpg"></td>
   </tr>
   <tr>
     <td><img src="./docs/imgs/books_origin.jpg"></td>
+    <td><img src="./docs/imgs/books_rembg.jpg"></td>
     <td><img src="./docs/imgs/books_masked.jpg"></td>
   </tr>
 </table>
