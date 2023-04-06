@@ -25,7 +25,7 @@ I compare the results to [rembg](https://github.com/danielgatis/rembg), a popula
     <tr>
         <td>Original</td>
         <td>rembg</td>
-        <td>Masked</td>
+        <td>SAMMask</td>
     </tr>
   <tr>
     <td><img src="./docs/imgs/glasses_origin.jpg"></td>
