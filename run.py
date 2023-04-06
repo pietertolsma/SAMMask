@@ -10,9 +10,7 @@ jpg_files = glob.glob("input_data/**/*.jpg", recursive=True)
 # generate_points(1920, 1080)
 
 print("Loading SAM..")
-predictor = SamPredictor(
-    build_sam(checkpoint="/Users/pietertolsma/Thesis/pointclouds/sam_vit_h_4b8939.pth")
-)
+predictor = SamPredictor(build_sam(checkpoint="checkpoint.pth"))
 
 print("Starting process..")
 for i in tqdm(range(len(jpg_files))):
