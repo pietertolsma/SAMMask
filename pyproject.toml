@@ -15,6 +15,8 @@ onnxruntime = "^1.14.1"
 onnx = "^1.13.1"
 tqdm = "^4.65.0"
 scipy = "^1.10.1"
+torch = "^2.0.0"
+torchvision = "^0.15.1"
 
 
 [build-system]

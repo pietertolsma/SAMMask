@@ -30,11 +30,16 @@ I compare the results to [rembg](https://github.com/danielgatis/rembg), a popula
   <tr>
     <td><img src="./docs/imgs/glasses_origin.jpg"></td>
     <td><img src="./docs/imgs/glasses_rembg.jpg"></td>
-    <td><img src="./docs/imgs/glasses_masked.jpg"></td>
+    <td><img src="./docs/imgs/glasses_masked.png"></td>
   </tr>
   <tr>
     <td><img src="./docs/imgs/books_origin.jpg"></td>
     <td><img src="./docs/imgs/books_rembg.jpg"></td>
-    <td><img src="./docs/imgs/books_masked.jpg"></td>
+    <td><img src="./docs/imgs/books_masked.png"></td>
+  </tr>
+  <tr>
+    <td><img src="./docs/imgs/cooker_origin.jpg"></td>
+    <td><img src="./docs/imgs/cooker_rembg.png"></td>
+    <td><img src="./docs/imgs/cooker_masked.png"></td>
   </tr>
 </table>
